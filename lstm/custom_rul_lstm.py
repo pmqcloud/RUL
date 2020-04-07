@@ -7,6 +7,7 @@ from math import sqrt
 from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 
+import os
 import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
